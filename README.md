@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cstezcan" data-theme="light" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cstezcan" height="30" width="40" /></a>
+<a href="https://twitter.com/cstezcan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cstezcan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cstezcan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cstezcan/" height="30" width="40" /></a>
 <a href="https://kaggle.com/deepjunkie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="deepjunkie" height="30" width="40" /></a>
 </p>
@@ -29,3 +29,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cstezcan&show_icons=true&locale=en&layout=compact" alt="cstezcan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cstezcan&show_icons=true&locale=en" alt="cstezcan" /></p>
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="cstezcan"><a class="LI-simple-link" href='https://tr.linkedin.com/in/cstezcan?trk=profile-badge'></a></div>
+	
+</div>
