@@ -2,7 +2,7 @@
 <h1 align="center">Hello Earthling or AI, I'm Celil</h1>
 <h3 align="center">Hardware Designer, Coder, Hacker, Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cstezcan&label=Profile%20views&color=66bb6a&style=flat" alt="cstezcan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cstezcan&label=Profile%20views&color=117a65&style=flat" alt="cstezcan" /> </p>
 
 - 🔭 I’m currently working on **YieldEstimator**
 
