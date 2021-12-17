@@ -19,12 +19,12 @@
 <a href="https://kaggle.com/deepjunkie" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.png" alt="deepjunkie" height="40" width="100" /></a>
 </p>
 
-<h3 align="center">**I have worked on wireless sensor networks**</h1>
-<h3 align="center">**I have worked on realtime ndvi cameras**</h1>
-<h3 align="center">**I have worked on multispectral camera development**</h1>
-<h3 align="center">**I have worked on unmanned ground vehicles**</h1>
-<h3 align="center">**I have worked on unmanned aerial vehicles**</h1>
-<h3 align="center">**I have worked on remote sensing**</h1>
+<h3 align="center">**I have worked on wireless sensor networks**</h3>
+<h3 align="center">**I have worked on realtime ndvi cameras**</h3>
+<h3 align="center">**I have worked on multispectral camera development**</h3>
+<h3 align="center">**I have worked on unmanned ground vehicles**</h3>
+<h3 align="center">**I have worked on unmanned aerial vehicles**</h3>
+<h3 align="center">**I have worked on remote sensing**</h3>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cstezcan&show_icons=true&locale=en&layout=compact" alt="cstezcan" /></p>
