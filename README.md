@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cstezcan&label=Profile%20views&color=0e75b6&style=flat" alt="cstezcan" /> </p>
 
-- 🔭 I’m currently working on **AI at the Edge**
+- 🔭 I’m currently working on **YieldEstimator**
 
-- 🌱 I’m currently learning **Shallow Networks**
+- 🌱 I’m currently learning **Shallow Networks, AI @ RISC-V**
 
-- 💬 Ask me about **Data Science, Deep Learning**
+- 💬 Ask me about **AI at the Edge, Deep Learning, Agriculture**
 
 - 📫 How to reach me **ai@tarsens.com**
 
