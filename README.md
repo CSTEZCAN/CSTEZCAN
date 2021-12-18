@@ -62,3 +62,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cstezcan&show_icons=true&locale=en&layout=compact" alt="cstezcan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cstezcan&show_icons=true&locale=en" alt="cstezcan" /></p>
+
+
+[Celil Serhan Tezcan_CV_lite.pdf](https://github.com/CSTEZCAN/CSTEZCAN/files/7739632/Celil.Serhan.Tezcan_CV_lite.pdf)
+
