@@ -12,6 +12,11 @@
 
 - 📫 How to reach me **ai@tarsens.com**
 
+- [My CV](https://github.com/CSTEZCAN/CSTEZCAN/files/7739632/Celil.Serhan.Tezcan_CV_lite.pdf)
+
+- [My Portfolio](https://github.com/CSTEZCAN/CSTEZCAN/files/7739636/TARSENS.Portfolio_Lite.pdf)
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/cstezcan" target="blank"><img align="center" src="https://github.com/twitter.png" alt="cstezcan" height="40" width="40" /></a>
@@ -63,6 +68,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cstezcan&show_icons=true&locale=en" alt="cstezcan" /></p>
 
-
-[Celil Serhan Tezcan_CV_lite.pdf](https://github.com/CSTEZCAN/CSTEZCAN/files/7739632/Celil.Serhan.Tezcan_CV_lite.pdf)
 
