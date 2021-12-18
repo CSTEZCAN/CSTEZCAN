@@ -63,9 +63,3 @@
 ![0Y2usU9j](https://user-images.githubusercontent.com/33690601/146649883-356fd683-df62-44f1-ba97-f4d359bbe71c.jpg)
 
 ![yieldestimator](https://user-images.githubusercontent.com/33690601/146649805-356b826c-e4dc-4e57-a91a-603f5e2dce3d.jpg)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cstezcan&show_icons=true&locale=en&layout=compact" alt="cstezcan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cstezcan&show_icons=true&locale=en" alt="cstezcan" /></p>
-
-
