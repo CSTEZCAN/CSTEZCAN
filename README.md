@@ -51,10 +51,13 @@
 
 ![wsn](https://user-images.githubusercontent.com/33690601/146649797-5e4841c6-b864-4ad1-85a7-7d54ded5993a.jpg)
 
-<h3 align="center">**I have worked on YieldEstimator technology**</h3>
+<h3 align="center">**I am working on YieldEstimator technology**</h3>
+
+![0rCD864Y](https://user-images.githubusercontent.com/33690601/146649873-031cea16-4b3f-4bf4-a50b-3e2c2399a0ee.jpg)
+
+![0Y2usU9j](https://user-images.githubusercontent.com/33690601/146649883-356fd683-df62-44f1-ba97-f4d359bbe71c.jpg)
 
 ![yieldestimator](https://user-images.githubusercontent.com/33690601/146649805-356b826c-e4dc-4e57-a91a-603f5e2dce3d.jpg)
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cstezcan&show_icons=true&locale=en&layout=compact" alt="cstezcan" /></p>
 
