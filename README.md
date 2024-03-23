@@ -14,9 +14,9 @@
 
 - 📫 How to reach me **ai@tarsens.com**
 
-- 📊 [My CV]([https://github.com/CSTEZCAN/CSTEZCAN/files/7739632/Celil.Serhan.Tezcan_CV_lite.pdf](https://github.com/CSTEZCAN/CSTEZCAN/blob/main/Celil%20Serhan%20Tezcan%20CV%202023.pdf))
+- 📊 [My CV](https://github.com/CSTEZCAN/CSTEZCAN/files/7739632/Celil.Serhan.Tezcan_CV_lite.pdf)
 
-- 🗂 [My Portfolio]([https://github.com/CSTEZCAN/CSTEZCAN/files/7739636/TARSENS.Portfolio_Lite.pdf](https://github.com/CSTEZCAN/CSTEZCAN/blob/main/CSTEZCAN_TARSENS_PROJECTS_HC.pdf))
+- 🗂 [My Portfolio](https://github.com/CSTEZCAN/CSTEZCAN/blob/main/CSTEZCAN_TARSENS_PROJECTS_HC.pdf)
 
 
 
