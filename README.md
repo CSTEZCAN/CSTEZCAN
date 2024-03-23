@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cstezcan&label=Profile%20views&color=388e3c&style=flat" alt="cstezcan" /> </p>
 
-- ✈️ I’m currently working on **[YieldEstimator](https://yieldestimator.com)**
+- ✈️ I’m currently working on **[Shake it off!](https://www.instagram.com/tarsens_rd/p/C22SvzxtHLT/)**
 
 - 🔭 I’m currently learning **AI @ RISC-V**
 
