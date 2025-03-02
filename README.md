@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cstezcan&label=Profile%20views&color=388e3c&style=flat" alt="cstezcan" /> </p>
 
-- ✈️ I’m currently working on **[Shake it off!](https://www.instagram.com/tarsens_rd/p/C22SvzxtHLT/)**
+- ✈️ I’m currently working on **[TactiFlux](https://www.tactiflux.com/)**
 
-- 🔭 I’m currently learning **AI @ RISC-V**
+- 🔭 I’m currently learning **Lithography**
 
-- 💬 Ask me about **AI at the Edge, Deep Learning, Agriculture**
+- 💬 Ask me about **Edge AI, AgTech, Plasmonics, Lithography**
 
 - 📫 How to reach me **ai@tarsens.com**
 
@@ -22,9 +22,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/cstezcan" target="blank"><img align="center" src="https://github.com/twitter.png" alt="cstezcan" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/cstezcan/" target="blank"><img align="center" src="https://github.com/linkedin.png" alt="cstezcan/" height="40" width="40" /></a>
-<a href="https://kaggle.com/deepjunkie" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.png" alt="deepjunkie" height="40" width="100" /></a>
 </p>
 
 
