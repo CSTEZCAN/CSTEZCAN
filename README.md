@@ -16,7 +16,7 @@
 
 - 📊 [My CV](https://github.com/CSTEZCAN/CSTEZCAN/files/7739632/Celil.Serhan.Tezcan_CV_lite.pdf)
 
-- 🗂 [My Portfolio](https://github.com/CSTEZCAN/CSTEZCAN/blob/main/CSTEZCAN_TARSENS_PROJECTS_HC.pdf)
+- 🗂 [My Portfolio](https://github.com/CSTEZCAN/CSTEZCAN/blob/main/TARSENS_2024_EN_NEW_Detailed_SmallerSize.pdf)
 
 
 
