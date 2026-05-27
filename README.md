@@ -35,19 +35,19 @@ A collection of demonstrations and projects from my other development pipelines.
     <td align="center">
       <a href="https://www.youtube.com/shorts/OZt9Q3F1MWo">
         <img src="https://img.youtube.com/vi/OZt9Q3F1MWo/hqdefault.jpg" width="300" height="300" alt="Work Demo 1"/><br/>
-        <b>Project Demo 1</b>
+        <b>TactiFlux Demo 1</b>
       </a>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/shorts/P3wmSixT9WM">
         <img src="https://img.youtube.com/vi/P3wmSixT9WM/hqdefault.jpg" width="300" height="300" alt="Work Demo 2"/><br/>
-        <b>Project Demo 2</b>
+        <b>TactiFlux Demo 2</b>
       </a>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/shorts/BFRRO6FKpd8">
         <img src="https://img.youtube.com/vi/BFRRO6FKpd8/hqdefault.jpg" width="300" height="300" alt="Work Demo 3"/><br/>
-        <b>Project Demo 3</b>
+        <b>TactiFlux Demo 3</b>
       </a>
     </td>
   </tr>
@@ -55,19 +55,19 @@ A collection of demonstrations and projects from my other development pipelines.
     <td align="center">
       <a href="https://www.youtube.com/shorts/0TUneuUpYgY">
         <img src="https://img.youtube.com/vi/0TUneuUpYgY/hqdefault.jpg" width="300" height="300" alt="Work Demo 4"/><br/>
-        <b>Project Demo 4</b>
+        <b>TactiFlux Demo 4</b>
       </a>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/shorts/ID-ops3Ut-Y">
         <img src="https://img.youtube.com/vi/ID-ops3Ut-Y/hqdefault.jpg" width="300" height="300" alt="Work Demo 5"/><br/>
-        <b>Project Demo 5</b>
+        <b>TactiFlux Demo 5</b>
       </a>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/shorts/SlJa0QybZew">
         <img src="https://img.youtube.com/vi/SlJa0QybZew/hqdefault.jpg" width="300" height="300" alt="Work Demo 6"/><br/>
-        <b>Project Demo 6</b>
+        <b>TactiFlux Demo 6</b>
       </a>
     </td>
   </tr>
@@ -75,19 +75,19 @@ A collection of demonstrations and projects from my other development pipelines.
     <td align="center">
       <a href="https://www.youtube.com/shorts/cH1lRsdtLBw">
         <img src="https://img.youtube.com/vi/cH1lRsdtLBw/hqdefault.jpg" width="300" height="300" alt="Work Demo 7"/><br/>
-        <b>Project Demo 7</b>
+        <b>TactiFlux Demo 7</b>
       </a>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/shorts/Zg53dfr4vXA">
         <img src="https://img.youtube.com/vi/Zg53dfr4vXA/hqdefault.jpg" width="300" height="300" alt="Work Demo 8"/><br/>
-        <b>Project Demo 8</b>
+        <b>TactiFlux Demo 8</b>
       </a>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/shorts/efquXH14-HY">
         <img src="https://img.youtube.com/vi/efquXH14-HY/hqdefault.jpg" width="300" height="300" alt="Work Demo 9"/><br/>
-        <b>Project Demo 9</b>
+        <b>TactiFlux Demo 9</b>
       </a>
     </td>
   </tr>
